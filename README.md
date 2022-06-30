@@ -1,2 +1,2 @@
 # project-chelsea
-description of project-chelsea
+description of project
